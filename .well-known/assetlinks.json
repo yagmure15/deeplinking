@@ -1,14 +1,14 @@
 [
-    {
+  {
     "relation": [
         "delegate_permission/common.handle_all_urls"
     ],
-    "targets":{
+    "target":{
         "namespace":"android_app",
         "package_name":"com.borda.quattromobile",
         "sha256_cert_fingerprints":[
             "A8:EC:7D:E7:06:8C:4C:49:6B:F7:BE:5D:7C:7B:A8:3E:A8:4B:49:86:63:E5:67:66:98:22:3B:F7:56:F4:FE:32"
         ]
     }
-    }
+  }
 ]
